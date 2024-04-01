@@ -28,7 +28,7 @@ This project calculates and displays a fictional Stardate based on the original 
     *   **Clone (requires Git):** Open your terminal or command prompt and use the following command: 
 
        ```bash
-       git clone [https://github.com/](https://github.com/)RobinHirst11/stardate.git
+       git clone https://github.com/RobinHirst11/stardate.git
        ```
 
 2.  **Navigate to the Project Directory:**
