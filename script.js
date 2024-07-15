@@ -70,7 +70,7 @@ setInterval(function () {
         newBubble.remove();
       }, 2000);
     }, Math.floor(Math.random() * 1000) + 2000);
-  }, 900);
+  }, 1000);
 
 function copyStardate() {
   const stardateText = document.getElementById('stardateDisplay').textContent;
